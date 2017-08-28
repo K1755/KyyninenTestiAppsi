@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KyyninenTestiAppsi</string>
+    <string name="hello_txt">Hei Maailma!</string>
+    <string name="hello_world_land">Hei Vaakatasoinen Maailma!</string>
+</resources>
